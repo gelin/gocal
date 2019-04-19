@@ -2,7 +2,7 @@ module github.com/gelin/gocal
 
 go 1.12
 
-replace github.com/apognu/gocal => github.com/gelin/gocal v0.4.1
+replace github.com/apognu/gocal => ./
 
 require (
 	github.com/apognu/gocal v0.4.1
